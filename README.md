@@ -14,7 +14,7 @@ The plots explore the following topics:
 
 ## Variable Definitions
 
-- **`cname`**: Country name
+- **`cname`**: Country's name
 - **`year`**: Year of observation
 - **`gle_pop`**: Population size
 - **`gle_exp`**: Export volume (goods and services)
