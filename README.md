@@ -1,6 +1,6 @@
 # International-Trade-and-Environmental-Pollution
 
-This repository contains an analysis based on the University of Gothenburg's Quality of Government (QoG) Dataset, examining global trends over the past 50 years. The study focuses on understanding the interplay between international trade, economic growth, and environmental impacts across different countries.
+This repository contains an analysis based on the University of Gothenburg's Quality of Government (QoG) Dataset, examining global trends over the past 50 years. The study focuses on understanding the interplay between international trade, economic growth, and environmental impacts across different countries. Created by Caroline Porche
 
 ## Analysis Topics
 
